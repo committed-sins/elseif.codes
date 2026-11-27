@@ -1,2 +1,5 @@
 # elseif.codes
-A project about digital fundamentals.
+
+## Summary
+
+An idea for explaining digital fundamentals in plain language.
